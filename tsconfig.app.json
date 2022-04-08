@@ -3,7 +3,7 @@
   "compilerOptions": {
    "noImplicitAny": false,
     "outDir": "./out-tsc/app",
-    "types": [],
+    "types": [], 
   },
   "files": [
     "src/main.ts",
